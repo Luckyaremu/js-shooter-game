@@ -1,0 +1,19 @@
+{
+  "name": "js-shooter-game",
+  "version": "1.0.0",
+  "description": "This is a shooter game, a battle aircraft pilot who's trying to rescue her father. In this app, you will be able to help her by shooting and destroying the enemy's aircraft. Built with Javascript and Phaser 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luckyaremu/js-shooter-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luckyaremu/js-shooter-game/issues"
+  },
+  "homepage": "https://github.com/Luckyaremu/js-shooter-game#readme"
+}
