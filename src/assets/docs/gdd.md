@@ -296,7 +296,7 @@ This project was built using [Phaser 3](https://phaser.io/phaser3), [Webpack](ht
 
 # Acknowledgements
 
-- Big thanks to [Ikraam Ghoor](https://github.com/ikraamg), who helped me building this story's introduction.
+- Big thanks to [Oladipupo Martins], who helped me building this story's line/introduction.
 
 - This project was built during my course at [Microverse](https://www.microverse.org/), which is an amazing school where I learned how to program. Also, Microverse provided me with an [API](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3) to keep the player's scores.
 
