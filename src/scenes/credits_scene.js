@@ -9,9 +9,9 @@ export default class CreditsScene extends Phaser.Scene {
   create() {
     this.cameras.main.setBackgroundColor('#000111');
     this.creditsText = this.add.text(0, 0, 'Credits', { fontSize: '32px', fill: '#fff' });
-    this.image1 = this.add.image(400, 200, 'murilo');
-    this.madeByText1 = this.add.text(0, 0, 'Created By: Murilo Roque', { fontSize: '26px', fill: '#fff' });
-    this.madeByText2 = this.add.text(0, 0, "Big thanks to Ikraam Ghoor,\n\nwho helped me building this story's\n\nintroduction.", { fontSize: '26px', fill: '#fff' });
+    this.image1 = this.add.image(400, 200, 'Lucky');
+    this.madeByText1 = this.add.text(0, 0, 'Created By: Aremu Lucky', { fontSize: '26px', fill: '#fff' });
+    this.madeByText2 = this.add.text(0, 0, "Big thanks to Rhoda Alex,\n\nwho helped me building this story's\n\nintroduction.", { fontSize: '26px', fill: '#fff' });
     this.madeByText3 = this.add.text(0, 0, 'This project was built during\n\nmy course at Microverse!', { fontSize: '26px', fill: '#fff' });
     this.image2 = this.add.image(400, 200, 'microverse');
     this.madeByText4 = this.add.text(0, 0, 'Thanks to OpenGameArt.org for\n\nproviding the free assets\n\nI used in this game.', { fontSize: '26px', fill: '#fff' });

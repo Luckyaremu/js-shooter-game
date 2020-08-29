@@ -6,165 +6,165 @@ This is the basis of my work, where I wrote down everything I planned for this p
 
 ## Intro
 
-The year is 1943, we are in the middle of World War II. Our story's heroine is Martha, a 25 years old British pilot. She works for a secret agency, where she learned everything about battle planes to take undercover missions against german air forces. Two days ago, her father, a British general, was kidnapped by the Germans and is being held captive in their western stronghold.
+The year is 2020, we are in the middle of World War III. Our story's heroine is Alex, a 25 years old Nigerian pilot. He works for a secret agency, where he learned everything about battle planes to take undercover missions against boko-haram air forces. Few days ago, his father, a Nigrian general, was kidnapped by the Boko-haram forces and is being held captive in their morthern stronghold.
 
-Enraged at this news, Martha is on a mission to rescue her father by breaching each of the 5 main west command posts, where she will find clues on how to breach through the command post in which her father is located.
+Enraged at this news, Alex is on a mission to rescue his father by breaching each of the 5 main north command posts, where he will find clues on how to breach through the command post in which his father is located.
 
 Now everything depends on you, the player, to guide her in this journey, but don't worry, the agency will help you with any means necessary each time you take down a post commander. Good luck!
 
 ## Chapter 1 (Weingut I)
 
-Martha has arrived at the 1st command outpost.
+He has arrived at the 1st command outpost.
 
-Martha: "This is it, the beginning of my mission, I will never give up, I need to save him!"
+Alex: "This is it, the beginning of my mission, I will never give up, I need to save him!"
 
 ** battle **
 
 Philip (Boss): "How dare you invade my outpost? Who are you?"
-Martha: "Where's him?"
-Philip (Boss): "Who are you talking about? Get her!"
+Alex: "Where's him?"
+Philip (Boss): "Who are you talking about? Get him!"
 
 ** BOSS battle **
 
-Martha: "I guess he didn't know where my father is, but I found a note here!"
+Alex: "I guess he didn't know where my father is, but I found a note here!"
 
 Note: "Find the giant"
 
-Martha: "What does that mean?"
+Alex: "What does that mean?"
 
 ** bonus **
 
-Nigel: "Martha, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
+Nigel: "Alex, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
 
 ## Chapter 2 (Battery Moltke)
 
-Martha has arrived at the 2nd command outpost.
+Alex has arrived at the 2nd command outpost.
 
-Martha: "Let's keep on moving, hang in there, dad!"
+Alex: "Let's keep on moving, hang in there, dad!"
 
 ** battle **
 
 Karl (Boss): "Welcome, this will be the end, prepare yourself!"
-Martha: "I'm ready to rumble!"
+Alex: "I'm ready to rumble!"
 
 ** BOSS battle **
 
-Martha: "Tell me where he is now!"
+Alex: "Tell me where he is now!"
 
 Karl (Boss): "You won't get away with this, the seven must live!"
 
-Martha: "What do you mean?"
+Alex: "What do you mean?"
 
-Martha: "He's gone..."
+Alex: "He's gone..."
 
 ** bonus **
 
-Nigel: "Martha, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
+Nigel: "Alex, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
 
 ## Chapter 3 (B8 Bergkristall)
 
-Martha has arrived at the 3rd command outpost.
+Alex has arrived at the 3rd command outpost.
 
-Martha: "It's only the beginning, let's move!"
+Alex: "It's only the beginning, let's move!"
 
 ** battle **
 
 Robert (Boss): "Give up already, you won't get past me!"
-Martha: "Don't flatter yourself, come on!"
+Alex: "Don't flatter yourself, come on!"
 
 ** BOSS battle **
 
-Martha: "This is the third one and I still got nothing. Huh, what's that written on the wall?"
+Alex: "This is the third one and I still got nothing. Huh, what's that written on the wall?"
 
 Wall: "Your destiny is in the sleepless mountain"
 
-Martha: "Hmmm"
+Alex: "Hmmm"
 
 ** bonus **
 
-Nigel: "Martha, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
+Nigel: "Alex, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
 
 ## Chapter 4 (Siracourt V-1)
 
-Martha has arrived at the 4th command outpost.
+Alex has arrived at the 4th command outpost.
 
-Martha: "Almost there, I must not fail!"
+Alex: "Almost there, I must not fail!"
 
 ** battle **
 
 Hermann (Boss): "This is the end of the road for you!"
-Martha: "It is the end of the road, but not for me!"
+Alex: "It is the end of the road, but not for me!"
 
 ** BOSS battle **
 
-Martha: "What is that? A chest?"
+Alex: "What is that? A chest?"
 
 ** opens the chest **
 
-Martha: "There's a toy castle inside, very curious."
+Alex: "There's a toy castle inside, very curious."
 
 ** bonus **
 
-Nigel: "Martha, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
+Nigel: "Alex, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
 
 ## Chapter 5 (Wolf's Lair)
 
-Martha has arrived at the 5th command outpost.
+Alex has arrived at the 5th command outpost.
 
-Martha: "This is the last command post, this must contain the final piece of the puzzle!"
+Alex: "This is the last command post, this must contain the final piece of the puzzle!"
 
 ** battle **
 
 Heinrich (Boss): "You have finally arrived, let me give you a very warm welcome!"
-Martha: "This is for my father, be gone!"
+Alex: "This is for my father, be gone!"
 
 ** BOSS battle **
 
-Martha: "I have destroyed the last outpost and found nothing."
+Alex: "I have destroyed the last outpost and found nothing."
 
-Martha: "Wait a minute, the clues must mean something."
+Alex: "Wait a minute, the clues must mean something."
 
-Nigel: "That's right, Martha, put them together!"
+Nigel: "That's right, Alex, put them together!"
 
-Martha: "The sleepless mountain, it must be the Owl Mountains!"
+Alex: "The sleepless mountain, it must be the Owl Mountains!"
 
-Martha: "The toy castle, could it be Książ Castle?"
+Alex: "The toy castle, could it be Książ Castle?"
 
 Nigel: "Yes, and I heard the Germans are building seven massive underground bases in that location!"
 
-Martha: "Wait a minute, the 'Giant'! It must be Project Riese, that's where my father is! We must not waste time, let's go!"
+Alex: "Wait a minute, the 'Giant'! It must be Project Riese, that's where my father is! We must not waste time, let's go!"
 
 ** bonus **
 
-Nigel: "Martha, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
+Nigel: "Alex, congratulations on destroying this outpost, the agency sent you a gift, please choose one of them:"
 
 ## Chapter 6 (Project Riese)
 
-Martha has arrived at the final command outpost.
+Alex has arrived at the final command outpost.
 
-Martha: "Dad, I'm coming, hang in there!"
+Alex: "Dad, I'm coming, hang in there!"
 
 ** battle **
 
 Adolf (Boss): "I can't believe you defeated my commanders!"
-Martha: "Release my father and give up right now if you want to live."
+Alex: "Release my father and give up right now if you want to live."
 Adolf (Boss): "Unfortunately for you, this fight won't be as easy as the previous ones!"
 
 ** BOSS battle **
 
-Martha: "He's unconscious, I must find my father and leave as fast as possible."
+Alex: "He's unconscious, I must find my father and leave as fast as possible."
 
-Father: "Martha, in here!"
+Father: "Alex, in here!"
 
-Martha: "I have finally found you, come on, we don't have much time!"
+Alex: "I have finally found you, come on, we don't have much time!"
 
 ** huge explosion **
 
-Martha: "I am so happy I found you, you must go back to England, you will be safe there."
+Alex: "I am so happy I found you, you must go back to England, you will be safe there."
 
-Father: "Martha, this war is far from over, I won't stop fighting"
+Father: "Alex, this war is far from over, I won't stop fighting"
 
-Martha: "How did you end up being captured?"
+Alex: "How did you end up being captured?"
 
 Father: "It's a long story, but a very good one, it all began when I..."
 
@@ -300,11 +300,6 @@ This project was built using [Phaser 3](https://phaser.io/phaser3), [Webpack](ht
 
 - This project was built during my course at [Microverse](https://www.microverse.org/), which is an amazing school where I learned how to program. Also, Microverse provided me with an [API](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3) to keep the player's scores.
 
-- Thanks to the following TSEs who reviewed my project:
-
-  - [Louis Chia](https://github.com/shloch)
-  - [Sérgio Torres](https://github.com/Torres-ssf)
-  - [James Okunlade](https://github.com/JamesOkunlade)
 
 - Thanks to [OpenGameArt](https://opengameart.org/) for providing the free assets I used in this game. The full list of authors is bellow:
 
@@ -327,3 +322,4 @@ This project was built using [Phaser 3](https://phaser.io/phaser3), [Webpack](ht
   - Swamp, River and Warzone songs: [Matthew Pablo](https://opengameart.org/users/matthew-pablo)
   - Explosion sound: [Joth](https://opengameart.org/users/joth)
   - Shoots sound: [Stephen M. Cameron](http://sourceforge.net/users/smcameron)
+  - Murilo Roque Paiva da Silva (https://github.com/MuriloRoque?tab=repositories)

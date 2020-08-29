@@ -33,19 +33,19 @@ export default class Controller extends Phaser.Scene {
     this.scene.add('Intro', IntroScene);
     for (let i = 0; i <= 5; i += 1) {
       this.scene.add(`Game${i + 1}`, new GameScene(`Game${i + 1}`, `${terrains[i]}`, `Chapter${i + 1}BossDialogue`, `Boss${i + 1}`, `Chapter${i + 1}EndDialogue`));
-      this.scene.add(`Chapter${i + 1}Dialogue`, new Dialogue(`Chapter${i + 1}Dialogue`, `${terrains[i]}`, `Chapter ${i + 1}`, `Martha has arrived at the ${i + 1}º command outpost`, `${initialDialogues[i]}`, `Game${i + 1}`));
+      this.scene.add(`Chapter${i + 1}Dialogue`, new Dialogue(`Chapter${i + 1}Dialogue`, `${terrains[i]}`, `Chapter ${i + 1}`, `Alex has arrived at the ${i + 1}º command outpost`, `${initialDialogues[i]}`, `Game${i + 1}`));
       this.scene.add(`Chapter${i + 1}BossDialogue`, new Dialogue(`Chapter${i + 1}BossDialogue`, `${terrains[i]}`, `Chapter ${i + 1} - Boss`, 'The boss appeared!', `${bossDialogues[i]}`, `Game${i + 1}`, true));
       if (i <= 3) {
-        this.scene.add(`Chapter${i + 1}EndDialogue`, new Dialogue(`Chapter${i + 1}EndDialogue`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Martha: ${endDialogues[i]}`, `Chapter${i + 1}Bonus`));
+        this.scene.add(`Chapter${i + 1}EndDialogue`, new Dialogue(`Chapter${i + 1}EndDialogue`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Alex: ${endDialogues[i]}`, `Chapter${i + 1}Bonus`));
       } else if (i === 4) {
-        this.scene.add(`Chapter${i + 1}EndDialogue`, new Dialogue(`Chapter${i + 1}EndDialogue`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Martha: ${endDialogues[i]}`, `Chapter${i + 1}EndDialogue2`));
-        this.scene.add(`Chapter${i + 1}EndDialogue2`, new Dialogue(`Chapter${i + 1}EndDialogue2`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Martha: ${endDialogues[i + 1]}`, `Chapter${i + 1}Bonus`));
+        this.scene.add(`Chapter${i + 1}EndDialogue`, new Dialogue(`Chapter${i + 1}EndDialogue`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Alex: ${endDialogues[i]}`, `Chapter${i + 1}EndDialogue2`));
+        this.scene.add(`Chapter${i + 1}EndDialogue2`, new Dialogue(`Chapter${i + 1}EndDialogue2`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Alex: ${endDialogues[i + 1]}`, `Chapter${i + 1}Bonus`));
       } else {
-        this.scene.add(`Chapter${i + 1}EndDialogue`, new Dialogue(`Chapter${i + 1}EndDialogue`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Martha: ${endDialogues[i + 1]}`, `Chapter${i + 1}EndDialogue2`));
-        this.scene.add(`Chapter${i + 1}EndDialogue2`, new Dialogue(`Chapter${i + 1}EndDialogue2`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Martha: ${endDialogues[i + 2]}`, 'EndGame'));
+        this.scene.add(`Chapter${i + 1}EndDialogue`, new Dialogue(`Chapter${i + 1}EndDialogue`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Alex: ${endDialogues[i + 1]}`, `Chapter${i + 1}EndDialogue2`));
+        this.scene.add(`Chapter${i + 1}EndDialogue2`, new Dialogue(`Chapter${i + 1}EndDialogue2`, `${terrains[i]}`, `Chapter ${i + 1} End`, 'Mission Complete!', `Alex: ${endDialogues[i + 2]}`, 'EndGame'));
       }
       if (i <= 4) {
-        this.scene.add(`Chapter${i + 1}Bonus`, new BonusDialogue(`Chapter${i + 1}Bonus`, `${terrains[i]}`, 'Nigel: \'Martha, congratulations on\ndestroying this outpost, the agency\n sent you a gift, please choose one:', `Chapter${i + 2}Dialogue`));
+        this.scene.add(`Chapter${i + 1}Bonus`, new BonusDialogue(`Chapter${i + 1}Bonus`, `${terrains[i]}`, 'Nigel: \'Alex, congratulations on\ndestroying this outpost, the agency\n sent you a gift, please choose one:', `Chapter${i + 2}Dialogue`));
       }
     }
     this.scene.start('Boot');
