@@ -55,7 +55,7 @@ In this project I:
 
 ## Live Demo
 
-[Click here to see it on Netlify!]()
+[Click here to see see the game!]()
 
 ## Getting Started
 
