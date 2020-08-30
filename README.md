@@ -1,8 +1,9 @@
 # Shooter Game
 This is a shooter game, a battle aircraft pilot who's trying to rescue his father. In this app, you will be able to help him by shooting and destroying the enemy's aircraft. Built with Javascript and Phaser 3.
 
-![screenshot](src/assets/images/screenshot1.jpg)
-![screenshot](src/assets/images/screenshot2.jpg)
+![screenshot](src/assets/screenshot1.jpg)
+![screenshot](src/assets/screenshot2.jpg)
+
 
 First of all, you can find this project's requirements [here](https://www.notion.so/Shooter-game-203e819041c7486bb36f9e65faecba27).
 
