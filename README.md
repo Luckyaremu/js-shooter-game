@@ -3,6 +3,8 @@ This is a shooter game, a battle aircraft pilot who's trying to rescue his fathe
 
 ![screenshot](src/assets/screenshot1.jpg)
 ![screenshot](src/assets/screenshot2.jpg)
+./src/assets/screenshoot1.jpg
+./src/assets/screenshoot2.jpg
 
 
 First of all, you can find this project's requirements [here](https://www.notion.so/Shooter-game-203e819041c7486bb36f9e65faecba27).
