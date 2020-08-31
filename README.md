@@ -1,3 +1,4 @@
+dev-branch
 # Shooter Game
 This is a shooter game, a battle aircraft pilot who's trying to rescue his father. In this app, you will be able to help him by shooting and destroying the enemy's aircraft. Built with Javascript and Phaser 3.
 
@@ -98,3 +99,6 @@ Contributions, issues and feature requests are welcome! Start by:
 ## Show your support
 
 Give a ⭐️ if you like this project!
+=======
+# js-shooter-game
+This is a shooter game, a battle aircraft pilot who's trying to rescue her father. In this app, you will be able to help her by shooting and destroying the enemy's aircraft. Built with Javascript and Phaser 3
