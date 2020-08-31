@@ -1,7 +1,7 @@
 # Shooter Game
 This is a shooter game, a battle aircraft pilot who's trying to rescue his father. In this app, you will be able to help him by shooting and destroying the enemy's aircraft. Built with Javascript and Phaser 3.
 
-[App Demo](./src/assets/screenshoot1.jpg)
+![screenshot](./src/assets/screenshoot1.jpg)
 
 
 
