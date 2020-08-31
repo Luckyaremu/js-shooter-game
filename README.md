@@ -62,6 +62,8 @@ In this project I:
 
 - Clone the repository on your local machine;
 - Cd into the folder;
+- Run `npm install`;
+- Run `npm run build`;
 - Run `npm start`;
 - Open your browser and type `localhost:8080`;
 - To run tests, type `npm run test`.
