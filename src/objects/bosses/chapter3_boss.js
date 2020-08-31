@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import Entity from '../entities';
 import ChasingEnemyMissile from '../attacks/chasing_enemy_missile';
@@ -24,3 +26,5 @@ export default class Boss3 extends Entity {
     });
   }
 }
+
+/* eslint-enable */

@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Entity from '../entities';
 import Shoot from '../attacks/shoot';
 
@@ -21,3 +23,5 @@ export default class Multirole extends Entity {
     });
   }
 }
+
+/* eslint-enable */

@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import UIPlugin from 'phaser3-rex-plugins/templates/ui/ui-plugin';
 
@@ -28,3 +30,5 @@ export default {
   pixelArt: true,
   roundPixels: true,
 };
+
+/* eslint-enable */

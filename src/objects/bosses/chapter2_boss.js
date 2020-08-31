@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import Entity from '../entities';
 import Shoot from '../attacks/shoot';
@@ -25,3 +27,5 @@ export default class Boss2 extends Entity {
     });
   }
 }
+
+/* eslint-enable */

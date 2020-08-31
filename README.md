@@ -9,7 +9,6 @@ First of all, you can find this project's requirements [here](https://www.notion
 Kindly check the Game Design Document I made before starting out: [GDD](src/assets/docs/gdd.md)
 
 In this project I:
-
 - Used Javascript and Phaser 3 to implement a Shooter Game;
 - Used the following packages apart from the standard ones:
 

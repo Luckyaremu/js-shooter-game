@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import 'regenerator-runtime';
 
 const fetch = require('node-fetch');
@@ -31,3 +33,5 @@ export const getScores = async () => {
   const scores = await response.json();
   return scores.result;
 };
+
+/* eslint-enable */

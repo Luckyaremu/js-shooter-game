@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import Entity from '../entities';
 
@@ -46,3 +48,5 @@ export default class Chaser extends Entity {
     }
   }
 }
+
+/* eslint-enable */
