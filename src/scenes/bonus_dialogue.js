@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import createLabel from '../create_label';
 import scenesLogic from './scenes_logic';
@@ -69,3 +71,4 @@ export default class BonusDialogue extends Phaser.Scene {
       });
   }
 }
+/* eslint-enable */

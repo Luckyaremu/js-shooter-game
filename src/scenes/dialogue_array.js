@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const dialogues = () => {
   const terrains = ['desert', 'oasis', 'swamp', 'forest', 'river', 'warzone'];
   const initialDialogues = [`'This is it, the beginning of my mission,\n
@@ -46,3 +48,4 @@ giant' Alex: 'What does that mean?'`,
 };
 
 export default dialogues;
+/* eslint-enable */

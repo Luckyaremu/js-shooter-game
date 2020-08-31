@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import Button from '../objects/buttons';
 
@@ -24,3 +26,4 @@ export default class GameOverScene extends Phaser.Scene {
     this.title.setOrigin(0.5);
   }
 }
+/* eslint-enable */

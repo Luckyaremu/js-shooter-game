@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import config from '../config/config';
 
@@ -50,3 +52,4 @@ export default class IntoScene extends Phaser.Scene {
     }
   }
 }
+/* eslint-enable */

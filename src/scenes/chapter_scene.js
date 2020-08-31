@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import Player from '../objects/player';
 import scenesLogic from './scenes_logic';
@@ -231,3 +233,4 @@ export default class GameScene extends Phaser.Scene {
     }
   }
 }
+/* eslint-enable */

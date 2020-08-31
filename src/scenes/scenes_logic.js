@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const scenesLogic = (() => {
   const updateBonuses = (key, buttonText) => {
     let bonuses;
@@ -137,3 +139,4 @@ const scenesLogic = (() => {
 })();
 
 export default scenesLogic;
+/* eslint-enable */

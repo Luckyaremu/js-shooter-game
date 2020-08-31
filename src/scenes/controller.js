@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import BootScene from './boot_scene';
 import PreloaderScene from './preloader_scene';
@@ -51,3 +53,4 @@ export default class Controller extends Phaser.Scene {
     this.scene.start('Boot');
   }
 }
+/* eslint-enable */

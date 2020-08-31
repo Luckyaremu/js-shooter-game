@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import Button from '../objects/buttons';
 
@@ -55,3 +57,4 @@ export default class OptionsScene extends Phaser.Scene {
     }
   }
 }
+/* eslint-enable */

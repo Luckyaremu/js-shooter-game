@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import { putScore } from '../leaderboard';
 
@@ -37,3 +39,4 @@ export default class PlayerInputScene extends Phaser.Scene {
     });
   }
 }
+/* eslint-enable */
