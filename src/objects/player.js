@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import Entity from './entities';
 import Shoot from './attacks/shoot';
@@ -113,3 +115,4 @@ export default class Player extends Entity {
     }
   }
 }
+/* eslint-enable */

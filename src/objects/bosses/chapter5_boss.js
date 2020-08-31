@@ -24,6 +24,4 @@ export default class Boss5 extends Entity {
     });
   }
 }
-
 /* eslint-enable */
-

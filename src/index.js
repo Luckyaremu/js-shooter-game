@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 import config from './config/config';
 import Music from './models/music';
@@ -13,4 +15,5 @@ class Game extends Phaser.Game {
   }
 }
 
-const game = new Game(); /* eslint-disable-line */
+const game = new Game();
+/* eslint-enable */

@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Phaser from 'phaser';
 
 export default class Entity extends Phaser.GameObjects.Sprite {
@@ -42,3 +44,4 @@ export default class Entity extends Phaser.GameObjects.Sprite {
     }
   }
 }
+/* eslint-enable */

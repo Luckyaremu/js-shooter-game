@@ -28,6 +28,4 @@ export default class Boss6 extends Entity {
     });
   }
 }
-
 /* eslint-enable */
-
