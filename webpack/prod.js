@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const merge = require('webpack-merge');
 const TerserPlugin = require('terser-webpack-plugin');
 const base = require('./base');
@@ -24,3 +26,4 @@ module.exports = merge(base, {
     ],
   },
 });
+/* eslint-enable */
