@@ -6,14 +6,13 @@ This is a shooter game, a battle aircraft pilot who's trying to rescue his fathe
 
 First of all, you can find this project's requirements [here](https://www.notion.so/Shooter-game-203e819041c7486bb36f9e65faecba27).
 
-[Video Presentation]()
-
 Kindly check the Game Design Document I made before starting out: [GDD](src/assets/docs/gdd.md)
 
 In this project I:
 
 - Used Javascript and Phaser 3 to implement a Shooter Game;
 - Used the following packages apart from the standard ones:
+
   - phaser
   - phaser3-rex-plugins
   - webpack
