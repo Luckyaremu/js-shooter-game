@@ -16,7 +16,7 @@ describe('The scores and usernames should be written and read from the API', () 
       expect(data).toEqual(
         expect.arrayContaining([
           expect.objectContaining({
-            user: 'Lucky',
+            user: 'Murilo',
           }),
         ]),
       );
