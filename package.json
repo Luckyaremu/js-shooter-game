@@ -6,8 +6,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d dist",
-    "start": "webpack-dev-server",
-    "build": "webpack",
+    "build": "webpack --config webpack/prod.js ",
+    "start": "webpack-dev-server --config webpack/base.js --open",
     "test": "jest"
   },
   "devDependencies": {
