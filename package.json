@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d dist",
+    "deploy": "gh-pages -b dev-branch -d dist",
     "build": "webpack --config webpack/prod.js ",
     "start": "webpack-dev-server --config webpack/base.js --open",
     "test": "jest"
