@@ -4,6 +4,8 @@
   "description": "This is a shooter game, a battle aircraft pilot who's trying to rescue her father.",
   "main": "src/index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "jest",
     "watch": "jest --watch*.js",
     "build": "webpack --config webpack/prod.js ",
@@ -32,6 +34,7 @@
   },
   "dependencies": {
     "clean-webpack-plugin": "^3.0.0",
+    "gh-pages": "^3.1.0",
     "html-webpack-plugin": "^4.3.0",
     "node-fetch": "^2.6.0",
     "phaser": "^3.23.0",
